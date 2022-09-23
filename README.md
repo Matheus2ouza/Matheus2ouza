@@ -5,7 +5,7 @@ sou desemvolvedor na linguagem C# e um apaixonado por aprender❤️
 
 - Estudante de Back-End
 - aprendendo algo sobre HTML <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "30">
-- Redes Sociais [instagram]("www.linkedin.com/in/matheus-furtado-aa0648248")
+
 <div>
   <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" width = "40" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" width = "40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
