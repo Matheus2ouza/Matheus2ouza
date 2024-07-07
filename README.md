@@ -11,8 +11,7 @@ sou desemvolvedor na linguagem Js e um apaixonado por aprender❤️
   <img src = "https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" width = "40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width = "40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div>
-
-Brasil hexa 2022💛
+BORA CODAR??
 
 
 
