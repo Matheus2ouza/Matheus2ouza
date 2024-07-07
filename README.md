@@ -4,7 +4,7 @@
 sou desemvolvedor na linguagem Js e um apaixonado por aprender❤️
 
 - 
-- aprendendo algo sobre HTML <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "30">
+- aprendendo algo sobre HTML5 e CSS3 <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width = "30" > <img src ="https://github.com/Matheus2ouza/devicon/blob/master/icons/css3/css3-original.svg" width = "30" >
 
 <div>
   <img src = "https://github.com/Matheus2ouza/devicon/blob/master/icons/javascript/javascript-original.svg" width = "40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
