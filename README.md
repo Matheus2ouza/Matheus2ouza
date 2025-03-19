@@ -1,4 +1,4 @@
-<img src = "200w.gif" width = "325px" align = "right">
+<img src = "200w.gif" width = "325px" align = "right" z-index = "1">
 
 # 😎Oii eu sou o Matheus, é bom ter você por aqui😎
 sou desemvolvedor na linguagem Js e um apaixonado por aprender❤️
